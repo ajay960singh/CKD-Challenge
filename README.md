@@ -23,5 +23,5 @@ The model consists of two parts -  the first part is an RNN, which reads sequenc
  
 ### Result
 
- A mix of pre-processing methods are used to come up with the final model. The final_model gives an F1 score of 0.75 on the validation set.
+ A mix of pre-processing and models are used to come up with the best combination. The final model gives an F1 score of 0.78 on the validation set.
  
